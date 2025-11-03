@@ -20,11 +20,17 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.danielvor.snackbf341c706ee54b7890262c7da20f9c32"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "description": "s2s2"
+    "description": "s2s2",
+    "extra": {
+      "eas": {
+        "projectId": "8e8d1979-8f6b-4fc1-a5cd-e1c786152feb"
+      }
+    }
   }
 }
