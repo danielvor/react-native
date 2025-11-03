@@ -11,7 +11,7 @@ Um exemplo de como construir e executar um app react native.
 
 ## 🎥 Demonstração
 
-![Demo](demo/soul_maka.gif)
+![Demo](https://github.com/danielvor/react-native/blob/main/demo/soul_maka.gif)
 
 
 ## 🚀 Como Executar
