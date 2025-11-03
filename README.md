@@ -9,6 +9,11 @@ Um aplicativo mobile desenvolvido em React Native simples.
 
 Um exemplo de como construir e executar um app react native.
 
+## 🎥 Demonstração
+
+![Demo](demo/soul_maka.gif)
+
+
 ## 🚀 Como Executar
 
 ### Pré-requisitos
